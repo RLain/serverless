@@ -1,0 +1,11 @@
+{
+    "name": "playground-rebecca-dynamodb",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+      "aws-sdk": "^2.1189.0",
+      "joi": "^17.6.0",
+      "serverless-http": "^2.7.0"
+    }
+  }
+  
